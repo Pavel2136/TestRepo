@@ -1,7 +1,7 @@
 package task1;
 
 public class ExtendsThread extends Thread{
-    private String name; // создать имя потока
+    private String name;
 
     public ExtendsThread() {
         super("task1.ExtendsThread");
